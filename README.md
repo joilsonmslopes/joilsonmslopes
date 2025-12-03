@@ -45,23 +45,6 @@ Esse histórico me ajuda hoje a enxergar o backend de forma integrada com o fron
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=joilsonmslopes&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide_border=false"
-    alt="Estatísticas do GitHub de Joilson"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joilsonmslopes&layout=compact&langs_count=6&hide_border=false"
-    alt="Linguagens mais usadas por Joilson"
-  />
-</p>
-
----
-
 ## 📫 Contato
 
 - LinkedIn: [linkedin.com/in/joilsonmslopes](https://www.linkedin.com/in/joilsonmslopes)
